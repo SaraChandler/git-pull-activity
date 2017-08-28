@@ -10,7 +10,7 @@
 def duck_noise
   puts "quack"
 end
-# 
+#
 # Task 2: Same as task one, but switch roles
 def truck_noise
   puts "honk"
@@ -25,9 +25,9 @@ end
 #   puts "beep boop"
 # end
 
-# def train_noise
-#   puts "choo choo"
-# end
+def train_noise
+  puts "choo choo"
+end
 
 # Task 4: Merge Conflict
 # Both partners should modify the same line in different ways.
